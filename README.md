@@ -37,5 +37,4 @@ After processing the data in Excel, it was imported into Tableau for advanced vi
 ## Contributing 🤝
 Contributions to this project are welcome! Please feel free to fork the repository, make changes, and submit a pull request.
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+![image](https://github.com/heyysusan/Excel-Tableau-for-Wealth-of-nations-dataset-project/assets/168830084/16756491-7d32-47ce-b57e-b54fbbf5b0bd)
