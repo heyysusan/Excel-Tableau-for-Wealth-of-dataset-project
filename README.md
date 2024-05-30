@@ -1,6 +1,6 @@
-# Excel-Tableau-for-Wealth-of-nations-dataset-project
-Project from Data Technician bootcamp at JustIT. 
 # Excel and Tableau Visualization Project: Wealth of Nations 🌍
+
+Project from Data Technician bootcamp at JustIT. 
 
 ## Project Overview
 This project focuses on analyzing and visualizing the Wealth of Nations dataset using both Excel and Tableau. The main goal is to explore the relationship between economic metrics and technology usage, alongside health indicators across various countries.
